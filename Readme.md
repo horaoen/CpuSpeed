@@ -1,0 +1,1 @@
+[文档](http://www.coolpython.net/python_senior/miny_pro/cpu_speed.html)
